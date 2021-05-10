@@ -1,0 +1,23 @@
+{
+    "name": "What Watch",
+    "short_name": "WW",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "crimson",
+    "orientation": "portrait-primary",
+    "description": "La meilleur apply de cinéma",
+    "icons": [
+      {
+        "src": "../assets/icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "../assets/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
